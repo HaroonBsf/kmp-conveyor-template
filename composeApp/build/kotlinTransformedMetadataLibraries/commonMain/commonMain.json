@@ -1,0 +1,202 @@
+[
+  {
+    "moduleId": "module org.jetbrains.kotlin:kotlin-stdlib:2.2.10",
+    "file": "D:\\kmp-conveyor-template\\composeApp\\build\\kotlinTransformedMetadataLibraries\\commonMain\\org.jetbrains.kotlin-kotlin-stdlib-2.2.10-commonMain-3ud7Cw.klib",
+    "sourceSetName": "commonMain"
+  },
+  {
+    "moduleId": "module org.jetbrains.compose.runtime:runtime:1.8.2",
+    "file": "D:\\kmp-conveyor-template\\composeApp\\build\\kotlinTransformedMetadataLibraries\\commonMain\\org.jetbrains.compose.runtime-runtime-1.8.2-commonMain-uStnmw.klib",
+    "sourceSetName": "commonMain"
+  },
+  {
+    "moduleId": "module org.jetbrains.compose.foundation:foundation:1.8.2",
+    "file": "D:\\kmp-conveyor-template\\composeApp\\build\\kotlinTransformedMetadataLibraries\\commonMain\\org.jetbrains.compose.foundation-foundation-1.8.2-commonMain-P1UUAA.klib",
+    "sourceSetName": "commonMain"
+  },
+  {
+    "moduleId": "module org.jetbrains.compose.material3:material3:1.8.2",
+    "file": "D:\\kmp-conveyor-template\\composeApp\\build\\kotlinTransformedMetadataLibraries\\commonMain\\org.jetbrains.compose.material3-material3-1.8.2-commonMain-7XrLwg.klib",
+    "sourceSetName": "commonMain"
+  },
+  {
+    "moduleId": "module org.jetbrains.compose.ui:ui:1.8.2",
+    "file": "D:\\kmp-conveyor-template\\composeApp\\build\\kotlinTransformedMetadataLibraries\\commonMain\\org.jetbrains.compose.ui-ui-1.8.2-commonMain-wXUFBw.klib",
+    "sourceSetName": "commonMain"
+  },
+  {
+    "moduleId": "module org.jetbrains.compose.components:components-resources:1.8.2",
+    "file": "D:\\kmp-conveyor-template\\composeApp\\build\\kotlinTransformedMetadataLibraries\\commonMain\\org.jetbrains.compose.components-components-resources-1.8.2-blockingMain-Wrum6g.klib",
+    "sourceSetName": "blockingMain"
+  },
+  {
+    "moduleId": "module org.jetbrains.compose.components:components-resources:1.8.2",
+    "file": "D:\\kmp-conveyor-template\\composeApp\\build\\kotlinTransformedMetadataLibraries\\commonMain\\org.jetbrains.compose.components-components-resources-1.8.2-commonMain-Wrum6g.klib",
+    "sourceSetName": "commonMain"
+  },
+  {
+    "moduleId": "module org.jetbrains.compose.components:components-ui-tooling-preview:1.8.2",
+    "file": "D:\\kmp-conveyor-template\\composeApp\\build\\kotlinTransformedMetadataLibraries\\commonMain\\org.jetbrains.compose.components-components-ui-tooling-preview-1.8.2-commonMain-GiKBLA.klib",
+    "sourceSetName": "commonMain"
+  },
+  {
+    "moduleId": "module org.jetbrains.androidx.lifecycle:lifecycle-viewmodel-compose:2.9.3",
+    "file": "D:\\kmp-conveyor-template\\composeApp\\build\\kotlinTransformedMetadataLibraries\\commonMain\\org.jetbrains.androidx.lifecycle-lifecycle-viewmodel-compose-2.9.3-commonMain-dmNbXw.klib",
+    "sourceSetName": "commonMain"
+  },
+  {
+    "moduleId": "module org.jetbrains.androidx.lifecycle:lifecycle-runtime-compose:2.9.3",
+    "file": "D:\\kmp-conveyor-template\\composeApp\\build\\kotlinTransformedMetadataLibraries\\commonMain\\org.jetbrains.androidx.lifecycle-lifecycle-runtime-compose-2.9.3-commonMain-YHiHbg.klib",
+    "sourceSetName": "commonMain"
+  },
+  {
+    "moduleId": "module org.jetbrains.compose.annotation-internal:annotation:1.9.0-rc01",
+    "file": "D:\\kmp-conveyor-template\\composeApp\\build\\kotlinTransformedMetadataLibraries\\commonMain\\org.jetbrains.compose.annotation-internal-annotation-1.9.0-rc01-commonMain-cgDJDA.klib",
+    "sourceSetName": "commonMain"
+  },
+  {
+    "moduleId": "module org.jetbrains.compose.collection-internal:collection:1.8.2",
+    "file": "D:\\kmp-conveyor-template\\composeApp\\build\\kotlinTransformedMetadataLibraries\\commonMain\\org.jetbrains.compose.collection-internal-collection-1.8.2-commonMain-wYBS5Q.klib",
+    "sourceSetName": "commonMain"
+  },
+  {
+    "moduleId": "module org.jetbrains.kotlinx:atomicfu:0.23.2",
+    "file": "D:\\kmp-conveyor-template\\composeApp\\build\\kotlinTransformedMetadataLibraries\\commonMain\\org.jetbrains.kotlinx-atomicfu-0.23.2-nativeMain-yBS35w.klib",
+    "sourceSetName": "nativeMain"
+  },
+  {
+    "moduleId": "module org.jetbrains.kotlinx:atomicfu:0.23.2",
+    "file": "D:\\kmp-conveyor-template\\composeApp\\build\\kotlinTransformedMetadataLibraries\\commonMain\\org.jetbrains.kotlinx-atomicfu-0.23.2-commonMain-yBS35w.klib",
+    "sourceSetName": "commonMain"
+  },
+  {
+    "moduleId": "module org.jetbrains.kotlinx:kotlinx-coroutines-core:1.10.2",
+    "file": "D:\\kmp-conveyor-template\\composeApp\\build\\kotlinTransformedMetadataLibraries\\commonMain\\org.jetbrains.kotlinx-kotlinx-coroutines-core-1.10.2-concurrentMain-wJOvIw.klib",
+    "sourceSetName": "concurrentMain"
+  },
+  {
+    "moduleId": "module org.jetbrains.kotlinx:kotlinx-coroutines-core:1.10.2",
+    "file": "D:\\kmp-conveyor-template\\composeApp\\build\\kotlinTransformedMetadataLibraries\\commonMain\\org.jetbrains.kotlinx-kotlinx-coroutines-core-1.10.2-commonMain-wJOvIw.klib",
+    "sourceSetName": "commonMain"
+  },
+  {
+    "moduleId": "module org.jetbrains.compose.animation:animation:1.8.2",
+    "file": "D:\\kmp-conveyor-template\\composeApp\\build\\kotlinTransformedMetadataLibraries\\commonMain\\org.jetbrains.compose.animation-animation-1.8.2-commonMain-heSqMA.klib",
+    "sourceSetName": "commonMain"
+  },
+  {
+    "moduleId": "module org.jetbrains.compose.foundation:foundation-layout:1.8.2",
+    "file": "D:\\kmp-conveyor-template\\composeApp\\build\\kotlinTransformedMetadataLibraries\\commonMain\\org.jetbrains.compose.foundation-foundation-layout-1.8.2-commonMain-6Rvizw.klib",
+    "sourceSetName": "commonMain"
+  },
+  {
+    "moduleId": "module org.jetbrains.compose.ui:ui-text:1.8.2",
+    "file": "D:\\kmp-conveyor-template\\composeApp\\build\\kotlinTransformedMetadataLibraries\\commonMain\\org.jetbrains.compose.ui-ui-text-1.8.2-commonMain-HUoj_Q.klib",
+    "sourceSetName": "commonMain"
+  },
+  {
+    "moduleId": "module org.jetbrains.compose.ui:ui-util:1.8.2",
+    "file": "D:\\kmp-conveyor-template\\composeApp\\build\\kotlinTransformedMetadataLibraries\\commonMain\\org.jetbrains.compose.ui-ui-util-1.8.2-commonMain-E42TKw.klib",
+    "sourceSetName": "commonMain"
+  },
+  {
+    "moduleId": "module org.jetbrains.compose.animation:animation-core:1.8.2",
+    "file": "D:\\kmp-conveyor-template\\composeApp\\build\\kotlinTransformedMetadataLibraries\\commonMain\\org.jetbrains.compose.animation-animation-core-1.8.2-commonMain-59fNVA.klib",
+    "sourceSetName": "commonMain"
+  },
+  {
+    "moduleId": "module org.jetbrains.compose.material:material-ripple:1.8.2",
+    "file": "D:\\kmp-conveyor-template\\composeApp\\build\\kotlinTransformedMetadataLibraries\\commonMain\\org.jetbrains.compose.material-material-ripple-1.8.2-commonMain-eGnbhg.klib",
+    "sourceSetName": "commonMain"
+  },
+  {
+    "moduleId": "module org.jetbrains.compose.ui:ui-backhandler:1.8.2",
+    "file": "D:\\kmp-conveyor-template\\composeApp\\build\\kotlinTransformedMetadataLibraries\\commonMain\\org.jetbrains.compose.ui-ui-backhandler-1.8.2-jbMain-D_B_zg.klib",
+    "sourceSetName": "jbMain"
+  },
+  {
+    "moduleId": "module org.jetbrains.compose.ui:ui-backhandler:1.8.2",
+    "file": "D:\\kmp-conveyor-template\\composeApp\\build\\kotlinTransformedMetadataLibraries\\commonMain\\org.jetbrains.compose.ui-ui-backhandler-1.8.2-commonMain-D_B_zg.klib",
+    "sourceSetName": "commonMain"
+  },
+  {
+    "moduleId": "module org.jetbrains.compose.ui:ui-graphics:1.8.2",
+    "file": "D:\\kmp-conveyor-template\\composeApp\\build\\kotlinTransformedMetadataLibraries\\commonMain\\org.jetbrains.compose.ui-ui-graphics-1.8.2-commonMain-HHvMxA.klib",
+    "sourceSetName": "commonMain"
+  },
+  {
+    "moduleId": "module org.jetbrains.androidx.lifecycle:lifecycle-common:2.9.3",
+    "file": "D:\\kmp-conveyor-template\\composeApp\\build\\kotlinTransformedMetadataLibraries\\commonMain\\org.jetbrains.androidx.lifecycle-lifecycle-common-2.9.3-commonMain-_EOCYQ.klib",
+    "sourceSetName": "commonMain"
+  },
+  {
+    "moduleId": "module org.jetbrains.androidx.lifecycle:lifecycle-runtime:2.9.3",
+    "file": "D:\\kmp-conveyor-template\\composeApp\\build\\kotlinTransformedMetadataLibraries\\commonMain\\org.jetbrains.androidx.lifecycle-lifecycle-runtime-2.9.3-commonMain-TevCOQ.klib",
+    "sourceSetName": "commonMain"
+  },
+  {
+    "moduleId": "module org.jetbrains.androidx.lifecycle:lifecycle-viewmodel:2.9.3",
+    "file": "D:\\kmp-conveyor-template\\composeApp\\build\\kotlinTransformedMetadataLibraries\\commonMain\\org.jetbrains.androidx.lifecycle-lifecycle-viewmodel-2.9.3-commonMain-o5UeXw.klib",
+    "sourceSetName": "commonMain"
+  },
+  {
+    "moduleId": "module org.jetbrains.compose.runtime:runtime-saveable:1.8.2",
+    "file": "D:\\kmp-conveyor-template\\composeApp\\build\\kotlinTransformedMetadataLibraries\\commonMain\\org.jetbrains.compose.runtime-runtime-saveable-1.8.2-commonMain-7uHjag.klib",
+    "sourceSetName": "commonMain"
+  },
+  {
+    "moduleId": "module org.jetbrains.compose.ui:ui-geometry:1.8.2",
+    "file": "D:\\kmp-conveyor-template\\composeApp\\build\\kotlinTransformedMetadataLibraries\\commonMain\\org.jetbrains.compose.ui-ui-geometry-1.8.2-commonMain-pBZZJQ.klib",
+    "sourceSetName": "commonMain"
+  },
+  {
+    "moduleId": "module org.jetbrains.compose.ui:ui-unit:1.8.2",
+    "file": "D:\\kmp-conveyor-template\\composeApp\\build\\kotlinTransformedMetadataLibraries\\commonMain\\org.jetbrains.compose.ui-ui-unit-1.8.2-commonMain-YtGKSg.klib",
+    "sourceSetName": "commonMain"
+  },
+  {
+    "moduleId": "module androidx.annotation:annotation:1.9.1",
+    "file": "D:\\kmp-conveyor-template\\composeApp\\build\\kotlinTransformedMetadataLibraries\\commonMain\\androidx.annotation-annotation-1.9.1-commonMain-WmoUwA.klib",
+    "sourceSetName": "commonMain"
+  },
+  {
+    "moduleId": "module org.jetbrains.androidx.lifecycle:lifecycle-viewmodel-savedstate:2.9.3",
+    "file": "D:\\kmp-conveyor-template\\composeApp\\build\\kotlinTransformedMetadataLibraries\\commonMain\\org.jetbrains.androidx.lifecycle-lifecycle-viewmodel-savedstate-2.9.3-commonMain-7jVUng.klib",
+    "sourceSetName": "commonMain"
+  },
+  {
+    "moduleId": "module org.jetbrains.kotlinx:kotlinx-serialization-core:1.7.3",
+    "file": "D:\\kmp-conveyor-template\\composeApp\\build\\kotlinTransformedMetadataLibraries\\commonMain\\org.jetbrains.kotlinx-kotlinx-serialization-core-1.7.3-commonMain-s2qClw.klib",
+    "sourceSetName": "commonMain"
+  },
+  {
+    "moduleId": "module androidx.collection:collection:1.5.0",
+    "file": "D:\\kmp-conveyor-template\\composeApp\\build\\kotlinTransformedMetadataLibraries\\commonMain\\androidx.collection-collection-1.5.0-commonMain-j7f1lg.klib",
+    "sourceSetName": "commonMain"
+  },
+  {
+    "moduleId": "module androidx.lifecycle:lifecycle-common:2.9.2",
+    "file": "D:\\kmp-conveyor-template\\composeApp\\build\\kotlinTransformedMetadataLibraries\\commonMain\\androidx.lifecycle-lifecycle-common-2.9.2-commonMain-2l5nFA.klib",
+    "sourceSetName": "commonMain"
+  },
+  {
+    "moduleId": "module androidx.lifecycle:lifecycle-runtime:2.9.2",
+    "file": "D:\\kmp-conveyor-template\\composeApp\\build\\kotlinTransformedMetadataLibraries\\commonMain\\androidx.lifecycle-lifecycle-runtime-2.9.2-commonMain-IrcNlw.klib",
+    "sourceSetName": "commonMain"
+  },
+  {
+    "moduleId": "module androidx.lifecycle:lifecycle-viewmodel:2.9.2",
+    "file": "D:\\kmp-conveyor-template\\composeApp\\build\\kotlinTransformedMetadataLibraries\\commonMain\\androidx.lifecycle-lifecycle-viewmodel-2.9.2-commonMain-YZugNA.klib",
+    "sourceSetName": "commonMain"
+  },
+  {
+    "moduleId": "module androidx.lifecycle:lifecycle-viewmodel-savedstate:2.9.2",
+    "file": "D:\\kmp-conveyor-template\\composeApp\\build\\kotlinTransformedMetadataLibraries\\commonMain\\androidx.lifecycle-lifecycle-viewmodel-savedstate-2.9.2-commonMain-KTe1Gw.klib",
+    "sourceSetName": "commonMain"
+  },
+  {
+    "moduleId": "module androidx.savedstate:savedstate:1.3.1",
+    "file": "D:\\kmp-conveyor-template\\composeApp\\build\\kotlinTransformedMetadataLibraries\\commonMain\\androidx.savedstate-savedstate-1.3.1-commonMain-NwmUsg.klib",
+    "sourceSetName": "commonMain"
+  }
+]

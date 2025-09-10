@@ -1,0 +1,23 @@
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+    <channel>
+        <title>KMP Conveyor Demo Changelog</title>
+        <link>http://localhost:8080/appcast-amd64.rss</link>
+        <description>Most recent changes with links to updates.</description>
+        <language>en</language>
+        <item>
+            <title>Version 1.0.0</title>
+            <link>http://localhost:8080/</link>
+            <sparkle:version>1.0.0.1</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.14.0</sparkle:minimumSystemVersion>
+            <description>
+                <![CDATA[ New release: version 1.0.0 ]]>
+            </description>
+            <pubDate>Wed, 10 Sep 2025 21:37:03 GMT</pubDate>
+            <enclosure url="http://localhost:8080/kmp-conveyor-demo-1.0.0-1-mac-amd64.zip" 
+                       length="67621094" 
+                       type="application/octet-stream" 
+                       sparkle:edSignature="IFpcgVqtIKLTfjxWEE1J0dbzhnrsoJSYEY32RlkCo0o7cT3Lws1DZbcKpNpQ+T3c3VFNkpH9foKiNdpTvA0wCA=="/>
+        </item>
+    </channel>
+</rss>

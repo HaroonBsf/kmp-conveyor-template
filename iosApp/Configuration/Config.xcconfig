@@ -1,0 +1,7 @@
+TEAM_ID=
+
+PRODUCT_NAME=kmp-conveyor-template
+PRODUCT_BUNDLE_IDENTIFIER=com.haroon.kmpconveyor.kmp-conveyor-template$(TEAM_ID)
+
+CURRENT_PROJECT_VERSION=1
+MARKETING_VERSION=1.0
