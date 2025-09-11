@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.haroon.kmpconveyor.ComposeAppCommonTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-09-10T21:28:36.185Z" hostname="DESKTOP-QP3LTCM" time="0.045">
-  <properties/>
-  <testcase name="example" classname="com.haroon.kmpconveyor.ComposeAppCommonTest" time="0.045"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
