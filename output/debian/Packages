@@ -1,0 +1,14 @@
+Architecture: amd64
+Built-With: Hydraulic Conveyor
+Depends: libasound2t64 | liboss4-salsa-asound2, libc6, libfreetype6, libgcc-s1, libstdc++6, libx11-6, libxext6, libxi6, libxrender1, libxtst6, zlib1g
+Description: KMP Conveyor Template
+Installed-Size: 105513
+Maintainer: <nobody@nowhere>
+Package: kmp-conveyor-template
+Priority: optional
+Provides: kmp-conveyor-template
+Section: misc
+Version: 1.0.0-1
+Filename: debian/kmp-conveyor-template_1.0.0-1_amd64.deb
+Size: 55027904
+SHA256: aff7fa9a1bc26e1651c4f72bbb3e82057a3d2c9341e9ee3b9a0510b0701b6d3e

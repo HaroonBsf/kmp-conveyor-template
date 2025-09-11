@@ -1,0 +1,28 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Architectures: amd64
+Components: main
+Date: Thu, 11 Sep 2025 23:07:06 GMT
+Description: Public archive for KMP Conveyor Template
+Origin: KMP Conveyor Template
+Suite: debian
+MD5Sum:
+ 1987c4343eb29b80768c2fae88131107               546 Packages
+ a46063f314f17f497948999dfa85c862               436 Packages.xz
+SHA1:
+ 8a986e3316a0e4a2be19324390b0f019119d65a6               546 Packages
+ a4bdbe468a7dcbfcf0f95fe3250e73e3a2a64414               436 Packages.xz
+SHA256:
+ 13e47365f1ad4941963a800d260d9dd5e84a3d438c7c9751731c450201989a5b               546 Packages
+ 6463ec1319488ad717dca2734a7db8f6103fb54b98015c61b603eae3467e951b               436 Packages.xz
+SHA512:
+ c78a39ccee11e32fce23bffa0cf5352a38003fef98d94197e21ce37140416787e6ebe90b82e9a607f91224afb1302e267319aa1c87e8287902dbf88de73d789a               546 Packages
+ b8590092c77de0454243dc21841ef68049a606fd873dbe6488085a0cb6319994c9afefa1690b4b163764ff0f3ea1e82b0905367b61881cecf960c2aca35f31eb               436 Packages.xz
+-----BEGIN PGP SIGNATURE-----
+Version: BCPG v1.77.00
+
+iF4EARMIAAYFAmjDVhoACgkQCoF8W5Ra/2LKdAD9EA0UVDnicliZx6bC+FBeWn+B
+AkyssErK/OXv7CzJycMBAK9fmPmIvrbL8iMiir1GZY7SeIT+gv8+8iHmV0vax38I
+=f16+
+-----END PGP SIGNATURE-----
