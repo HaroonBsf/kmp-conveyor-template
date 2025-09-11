@@ -1,3 +1,17 @@
 # Default ignored files
 /shelf/
 /workspace.xml
+
+# Gradle
+.gradle/
+build/
+
+# IntelliJ IDEA
+.idea/
+
+# Conveyor output
+site/
+
+# OS
+.DS_Store
+Thumbs.db
