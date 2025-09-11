@@ -1,0 +1,7 @@
+#Fri Sep 12 03:44:29 PKT 2025
+base.0=D\:\\Project\\kmp-conveyor-template\\composeApp\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+base.1=D\:\\Project\\kmp-conveyor-template\\composeApp\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes2.dex
+path.0=classes.dex
+path.1=classes2.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex
